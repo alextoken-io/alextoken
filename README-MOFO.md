@@ -1,7 +1,5 @@
-# alextoken
+# alextoken — readme mofos.
 Alextoken — first token that helps buy legit pron.
-
-Read me mofo's.
 
 So, btc is not that secure and fucking slow.
 
